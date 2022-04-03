@@ -1,0 +1,57 @@
+html {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+h1,h2,h3 {
+    font-family: "Arial Black";
+}
+
+h1, h2 {
+    color: #2c637f;
+}
+
+h3 {
+    color: #509182;
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 2.4rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+.foto-perfil {
+    width: 15%;
+} 
+
+.datos-personales {
+    list-style: none;
+    padding: 0;
+}
+
+.gris {
+    background: #ccc;
+}
+
+
+h2 {
+    color: rgb(10, 7, 7);
+    background-color: rgb(165, 155, 157);
+}
+
+h3 {
+    color: rgb(10, 7, 7);
+}
+
+#parrafoUnico {
+    color: blue;
+}
+
+.nombre-dojo {
+    color: #2c637f;
+    font-style: italic;
+}
